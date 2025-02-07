@@ -4,3 +4,5 @@ This specific keylogger is made with C++ and works on windows 8, 8.1, and 10. Do
 
 
 #Credits to Ermin Kreponic for the detailed walk through.
+
+Used Code Blocks for development
