@@ -9,7 +9,9 @@
 // consider the word man it has 3 letters and the ascii values of these are represented in 8 bits and combined we get 24
 //bit string now we divide it into 6 bit strings and then turn the obtained string into decimal and then to character based on our mapping table
 
-
+/* We use the base64 encoding for our encryption process It wont be just the basic base64 and it will be 
+pretty hard to decrypt and the reason we are not using t he industry standard ones
+because itll be too much of a hassle as it involves installing a ton of libararies and other procedures.*/
 
 namespace Base64
 {
